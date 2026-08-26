@@ -1,0 +1,11 @@
+windows-capture-device-list
+cvzone
+pillow
+requests
+opencv-python
+numpy
+mysqlclient
+mysql-connector-python
+qrcode
+pyzbar
+face-recognition
